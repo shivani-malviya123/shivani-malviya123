@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivani  
 
-<!--
-**shivani-malviya123/shivani-malviya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m learning **MERN Stack**  
+💻 I love building **web applications**  
+🚀 Exploring **Frontend Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- HTML | CSS | JavaScript  
+- React.js | Redux  
+- Node.js | Express.js  
+- MongoDB  
+- Git | GitHub
+- Java
+- sql/mysql
+  
+
+---
+
+## 📊 GitHub Stats  
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani-malviya123&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-malviya123&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with me  
+- [LinkedIn](https://linkedin.com/in/contact-shivani-malviya)  
+- ✉️ Email:shivanim.bca2023@ssism.org
+
+---
+
