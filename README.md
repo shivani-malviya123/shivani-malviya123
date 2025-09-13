@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Shivani  
 
-🌱 I’m learning **MERN Stack**  
-💻 I love building **web applications**  
-🚀 Exploring **Frontend Development**
+🎓 BCA Student at Sant Singaji Institude of Science and Management
+💻 Passionate about Full Stack Development (MERN)
+🎯 Goal: To become a MERN Stack Developer and build impactful projects
+🌱 Currently solve **165+ DSA questions (LeetCode + GFG combined)
+
 
 ---
 
-## 🛠️ Skills  
-- HTML | CSS | JavaScript  
-- React.js | Redux  
-- Node.js | Express.js  
-- MongoDB  
-- Git | GitHub
-- Java
-- sql/mysql
-  
+#🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB, SQL
+Tools & Platforms: Git, GitHub, Auth0
+
 
 ---
 
